@@ -6,32 +6,10 @@ title: maurodoglio.com
 tagline: A blog about snakes, dinosaurs and unicorns
 description: This is the personal blog post of Mauro Doglio.
 paginate: 10
-comments :
-  provider : disqus
-  disqus :
-    short_name : maurodogliocom
-  livefyre :
-    site_id : 123
-  intensedebate :
-    account : 123abc
-  facebook :
-    appid : 123
-    num_posts: 5
-    width: 580
-    colorscheme: light
+comments: true
 
-# Settings for analytics helper
-# Set 'provider' to the analytics provider you want to use.
-# Set 'provider' to false to turn analytics off globally.
-#
-analytics :
-  provider : google
-  google :
-      tracking_id : 'UA-30883241-1'
-  getclicky :
-    site_id :
-  mixpanel :
-      token : '_MIXPANEL_TOKEN_'
+# Settings for google analytics
+ga_tracking_id : 'UA-30883241-1'
 
 gems:
   - jemoji
