@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://maurodoglio.github.io
+title: maurodoglio.com
+tagline: A blog about snakes, dinosaurs and unicorns
+description: This is the personal blog post of Mauro Doglio.
+paginate: 10
