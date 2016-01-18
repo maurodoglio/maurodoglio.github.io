@@ -9,4 +9,4 @@ A number of people are confused by how we display the status of each review requ
 
 The background will still be green even if the reviewer gave a ship-it-then-fix-it (i.e. a ship-it with some open issues) in which case the overall commit status will be marked as yellow.
 
-![](http://imgur.com/gDxfHId)
+![](http://i.imgur.com/gDxfHId.png?3)
