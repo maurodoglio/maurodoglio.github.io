@@ -4,7 +4,7 @@ title: Mozreview update - reviewer status
 layout: post
 tags: [mozreview, ux]
 ---
-A number of people are confused by how we display the status of each review request in the commits table UI and how it relates to bugzilla flags. To make it clear who has reviewed and who is still waiting to review we decided to surround the reviewer name with a green background once the reviewer has given a ship-it.
+A number of people are confused by how we display the status of each review request in the commits table UI and how it relates to bugzilla flags. To make it clear who has reviewed and who is still waiting to review MozReview now surrounds the reviewer name with a green background once the reviewer has given a ship-it.
 
 ![](/public/images/uuE1CN5.jpg)
 
