@@ -6,3 +6,16 @@ title: maurodoglio.com
 tagline: A blog about snakes, dinosaurs and unicorns
 description: This is the personal blog post of Mauro Doglio.
 paginate: 10
+comments :
+  provider : disqus
+  disqus :
+    short_name : maurodogliocom
+  livefyre :
+    site_id : 123
+  intensedebate :
+    account : 123abc
+  facebook :
+    appid : 123
+    num_posts: 5
+    width: 580
+    colorscheme: light
