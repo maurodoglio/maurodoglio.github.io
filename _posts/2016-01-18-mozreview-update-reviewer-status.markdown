@@ -1,6 +1,6 @@
 ---
 published: true
-title: Mozreview update: reviewer status
+title: Mozreview update - reviewer status
 layout: post
 tags: [mozreview, ux]
 ---
