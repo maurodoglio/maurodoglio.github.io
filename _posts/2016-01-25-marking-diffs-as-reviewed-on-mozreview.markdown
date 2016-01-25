@@ -2,6 +2,7 @@
 published: true
 title: Marking diffs as reviewed on mozreview
 layout: post
+tags: [mozreview, ux]
 ---
 Like other code review tools out there, MozReview now allows you to mark a single diff as reviewed.
 A new button has been added to the top-right corner of each diff. This button, initially grey and labelled 'not reviewed', will turn green when clicked and its label will switch to 'reviewed'.
